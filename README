@@ -2,5 +2,5 @@ How to
 ======
 1. Copy all files in this project to your Apapche Solr base folder
 2. Download RunJettyRun eclipse plugin (http://run-jetty-run.googlecode.com)
-3. Configure Run Configuration for Jetty Webapp: use your project, webapp folers points to src/webapp/web
-4. Happy run and debugging Solr
+3. Configure Run Configuration for Jetty Webapp: use your project, webapp folder points to src/webapp/web, configure keystore
+4. Happy running and debugging Solr
